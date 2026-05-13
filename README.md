@@ -79,6 +79,7 @@ app.add_error_handler(make_conflict_handler("我的Bot"))
 
 | 文件 | 說明 |
 |------|------|
+| [**快速上手指南**](docs/00_quickstart.md) | **新手從這裡開始：五步驟完成接入** |
 | [永豐 API 設置秘笈](docs/01_shioaji_setup.md) | 申請帳號、CA憑證、常見錯誤 |
 | [Telegram Bot 設置秘笈](docs/02_telegram_setup.md) | BotFather、chat_id、Conflict 處理 |
 | [系統整合指南](docs/03_integration.md) | 如何接入你的交易系統 |
