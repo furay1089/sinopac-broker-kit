@@ -1,0 +1,8 @@
+{
+    "api_key":    "你的永豐API金鑰",
+    "secret_key": "你的永豐API密鑰",
+    "person_id":  "你的身分證號（登入用）",
+    "ca_path":    "/app/data/Sinopac.pfx",
+    "ca_passwd":  "你的CA憑證密碼",
+    "simulation": false
+}

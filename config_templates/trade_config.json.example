@@ -1,0 +1,13 @@
+{
+    "enabled":         false,
+    "contract":        "XMTX",
+    "month_setting":   0,
+    "max_lots":        2,
+    "simulation_mode": true,
+    "note": {
+        "contract":      "TX=大台指, MTX=小台指, XMTX=微台指",
+        "month_setting": "0=近月, 1=次月, 2=次次月",
+        "max_lots":      "系統允許的最大未平倉口數（防爆倉）",
+        "simulation_mode": "true=僅模擬不真下單（強烈建議先開 true 測試）"
+    }
+}

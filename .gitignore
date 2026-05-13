@@ -1,0 +1,19 @@
+# 敏感設定檔（絕對不可 commit）
+data/
+*.pfx
+*.p12
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp

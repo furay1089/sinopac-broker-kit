@@ -1,0 +1,14 @@
+{
+    "trade_bot": {
+        "token":   "你的交易Bot Token（來自 BotFather）",
+        "chat_id": "你的 Telegram chat_id（數字）"
+    },
+    "analysis_bot": {
+        "token":   "你的分析Bot Token",
+        "chat_id": "你的 Telegram chat_id"
+    },
+    "system_bot": {
+        "token":   "你的系統管理Bot Token",
+        "chat_id": "你的 Telegram chat_id"
+    }
+}
