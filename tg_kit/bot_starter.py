@@ -8,6 +8,10 @@ Telegram Bot 起始範本
   2. 把這個檔案複製到你的系統
   3. 在「加入你的指令」區塊加上 CommandHandler / MessageHandler
   4. 執行：python bot_starter.py
+
+相關文件：
+  - 快速上手指南      docs/00_quickstart.md
+  - TG Bot 設置秘笈  docs/02_telegram_setup.md（BotFather / chat_id / Conflict 說明）
 """
 
 import asyncio
